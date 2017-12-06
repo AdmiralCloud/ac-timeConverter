@@ -37,5 +37,13 @@
     "mocha-jenkins-reporter": "^0.3.8",
     "mocha-junit-reporter": "^1.13.0",
     "mocha-multi-reporters": "^1.1.4"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-customizable"
+    },
+    "cz-customizable": {
+      "config": ".czConfig.js"
+    }
   }
 }
