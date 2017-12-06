@@ -5,8 +5,8 @@
 *#
 **/.DS_STORE/**
 **/.idea*
-**/report.xml
-**/.jenkins*
+report.xml
+.jenkins.conf
 
 ########################
 # node.js / npm
