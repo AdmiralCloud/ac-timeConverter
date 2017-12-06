@@ -5,6 +5,7 @@
 *#
 **/.DS_STORE/**
 **/.idea*
+**/report.xml
 
 ########################
 # node.js / npm
