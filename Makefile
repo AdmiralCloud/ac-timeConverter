@@ -15,6 +15,6 @@ rebase:
 	git rebase origin/develop
 
 release:
-	./node_modules/corp-semantic-release/src/index.js --branch master --useTemplate "ac-conventional-changelog-template"
+	./node_modules/corp-semantic-release/src/index.js --branch develop --useTemplate "ac-conventional-changelog-template"
 
 .PHONY: check
