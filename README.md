@@ -21,3 +21,11 @@ let seconds = acts.secondsFromTimestamp('00:00:06')
 let duration = acts.duration('00:00:03', '00:00:06')
 // -> 3
 ```
+
+## Links
+- [Website](https://www.admiralcloud.com/)
+- [Twitter (@admiralcloud)](https://twitter.com/admiralcloud)
+- [Facebook](https://www.facebook.com/MediaAssetManagement/)
+
+## License
+[MIT License](https://opensource.org/licenses/MIT) Copyright © 2009-present, AdmiralCloud, Mark Poepping
